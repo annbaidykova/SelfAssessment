@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🖐️ used
-  - Imperative programming 🖐️ used
-  - Structured programming 🖐️ used
-  - Non-structured programming 🖐️ used
-  - Functional programming 🖐️ used
-  - Prototype-based programming 🖐️ used
-  - Object-oriented programming 🖐️ used
-  - Object-based programming 🖐️ used
-  - Generic programming 🖐️ used
-  - Concurrent computing 🎓 known
-  - Asyncronous programming 🖐️ used
-  - Parallel programming 🖐️ used
-  - Reactive programming 🖐️ used
-  - FRP (Functional-reactive) 🎓 known
-  - Automata-based programming 🎓 known
-  - Domain-specific languages 🎓 known
-  - Multi-paradigm programming 🎓 known
-  - Metaprogramming 🎓 known
-  - Actor model 🎓 known
+  - Procedural programming: 🖐 used
+  - Imperative programming: 🖐 used
+  - Structured programming: 🖐 used
+  - Non-structured programming: 🖐 used
+  - Functional programming: 🖐 used
+  - Prototype-based programming: 🖐 used
+  - Object-oriented programming: 🖐 used
+  - Object-based programming: 🖐 used
+  - Generic programming: 🖐 used
+  - Concurrent computing: 🎓 known
+  - Asyncronous programming: 🖐 used
+  - Parallel programming: 🖐 used
+  - Reactive programming: 🖐 used
+  - FRP (Functional-reactive): 🎓 known
+  - Automata-based programming: 🎓 known
+  - Domain-specific languages: 🎓 known
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 🎓 known
+  - Actor model: 🎓 known
 - OOP basics
-  - constructor 🎓 known
-  - new 🎓 known
-  - Static method 🎓 known
-  - Method 🎓 known
-  - Async method 🎓 known
-  - Getters, Setters 🎓 known
-  - Public fields 🎓 known
-  - Private fields 🎓 known
-  - Field declarations 🎓 known
-  - Inheritance 🎓 known
-  - Parent class 🎓 known
-  - Polymorphism 🎓 known
-  - Abstract class 🎓 known
-  - Interface 🎓 known
-  - Encapsulation 🎓 known
-  - Hidden class 🎓 known
-  - Object form 🎓 known
-  - instance 🎓 known
-  - Introspection 🎓 known
-  - Reflection 🎓 known
+  - constructor: 🎓 known
+  - new: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
+  - Async method: 🎓 known
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🎓 known
+  - Hidden class: 🎓 known
+  - Object form: 🎓 known
+  - instance: 🎓 known
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
 - Patterns
-  - Singleton 🎓 known
-  - Factory Method 🎓 known
-  - Abstract Factory 🎓 known
-  - Adapter 👂 heard
-  - Observer 🖐️ used
-  - Strategy 👂 heard
-  - Facade 👂 heard
-  - Proxy 🎓 known
-  - Chain of Responsibility 🎓 known
-  - Command 👂 heard
-  - Iterator 🖐️ used
-  - State 👂 heard
-  - Bridge 👂 heard
-  - Builder 👂 heard
-  - Prototype 🖐️ used
-  - Composite 👂 heard
-  - Decorator 🎓 known
-  - Flyweight 👂 heard
-  - Mediator 👂 heard
-  - Memento 👂 heard
-  - Template Method 👂 heard
-  - Visitor 🎓 known
+  - Singleton: 🎓 known
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
+  - Adapter: 👂 heard
+  - Observer: 🖐 used
+  - Strategy: 👂 heard
+  - Facade: 👂 heard
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 👂 heard
+  - Iterator: 🖐 used
+  - State: 👂 heard
+  - Bridge: 👂 heard
+  - Builder: 👂 heard
+  - Prototype: 🖐 used
+  - Composite: 👂 heard
+  - Decorator: 🎓 known
+  - Flyweight: 👂 heard
+  - Mediator: 👂 heard
+  - Memento: 👂 heard
+  - Template Method: 👂 heard
+  - Visitor: 🎓 known
